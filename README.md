@@ -37,7 +37,7 @@ Now that you have successfully imported **tbmModule** into your page, its time t
 
 **tbmModule**  will be stored in a [PHP Variable](https://www.w3schools.com/php/php_variables.asp). This variable can be called whatever you want. In these docs we will be using a variable called <code>$tbm</code>. So to create tbmModule, paste the following code into the document **AFTER** the <code>require() or include()</code> statement.  
 
-<code>$tbm = tbmModule();</code>
+<code>$tbm = new tbmModule();</code>
 
 This creates tbmModule and stores it in a variable ready to use.
 
