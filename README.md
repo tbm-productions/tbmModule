@@ -17,7 +17,7 @@ Once you've uploaded the file, you will then need to import it into the page whe
 
 **IF ACCESSING IN THE SAME DIRECTORY**
 
-If the **tbmModule.php** file is located in the same directory as the page where you want to use it, then your life is a lot easier.  All you have to do is add this short bit of code to the top of the document (inside the **<?php ?>** tags.
+If the **tbmModule.php** file is located in the same directory as the page where you want to use it, then your life is a lot easier.  All you have to do is add this short bit of code to the top of the document (inside the **&lt;?php ?&gt;** tags).
 
 <code>require("tbmModule.php");</code>
 
