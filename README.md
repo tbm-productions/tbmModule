@@ -77,4 +77,4 @@ Example: <code>$tbm::Constant;</code>
 | getFullIp() | Gets both the users IPv6 & IPv4 Addresses |
 | getFileContents(file_path) | Gets the contents of a File
 
-### For more information visit the docs at https://developer.tbmproduction.com/projects/tbmModule/docs
+### For more information visit the docs at https://developer.tbmproduction.com/docs/tbm-module/getting-started
