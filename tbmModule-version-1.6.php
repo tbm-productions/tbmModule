@@ -1,7 +1,7 @@
 <?php
 /*
  *  tbmModule - Easy use of complex PHP functions.
- *  Version 0.6
+ *  Version 1.6
  *  PHP Verison 7.3.6
  *
  *  @docs       https://developer.tbmproduction.com/projects/tbm-module/docs
